@@ -6,7 +6,7 @@ class GoCaniuse < Formula
   sha256 "f417278eabcc40bd9cd0275a10884df064fd32d2e63f67f46d2686740380f761"
 
   def install
-		bin.install "gocaniuse"
+		bin.install "go-caniuse"
   end
 
   test do
